@@ -1,6 +1,6 @@
 # Phantom Crusade
 
-`Phantom Crusade` is a fast-paced, 2D single-player survival game developed in the Unity engine using C#. Players must navigate a hostile environment using responsive movement controls, fend off escalating waves of intelligent enemies, and leverage item-based enhancements to progress through an intense survival game loop. 
+Phantom Crusade is a fast-paced, 2D single-player survival game developed in the Unity engine using C#. Players must navigate a hostile environment using responsive movement controls, fend off escalating waves of intelligent enemies, and leverage item-based enhancements to progress through an intense survival game loop. 
 
 Designed with a heavy focus on arcade-style replayability, the game balances tight combat pacing with a scaling difficulty system to challenge the player's positioning and shooting accuracy.
 
